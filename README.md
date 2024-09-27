@@ -1,4 +1,5 @@
 # Mac-Converter
+Converts Mac Addresses to XX:XX:XX:XX:XX:XX, XX-XX-XX-XX-XX-XX, XXXX.XXXX.XXXX format
 
 Running
 -------
